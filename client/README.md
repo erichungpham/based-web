@@ -1,8 +1,8 @@
 # based-web
 
-##Project setup:
+## Project setup:
 
-#Setting up installs:
+# Setting up installs:
 ```
 cd api    //navigate to /api/ folder
 npm install
@@ -10,18 +10,18 @@ cd ..
 cd client
 npm install
 ```
-
-#Running Back-end:
+You need to run both the back and front-end in two command different command lines.
+# Running Back-end:
 ```
 cd api
 npm start
 ```
-#Running Front-end:
+# Running Front-end:
 ```
 cd client
 npm start
 ```
-Open [http://localhost:8081](http://localhost:8081) to view.
+Open [http://localhost:8081](http://localhost:8081) to view. If there are any issues, see solutions below or send me an email at erichungpham@gmail.com
 
 ____________________________________________________________________________
 
