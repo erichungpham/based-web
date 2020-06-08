@@ -1,3 +1,31 @@
+# based-web
+
+##Project setup:
+
+#Setting up installs:
+```
+cd api    //navigate to /api/ folder
+npm install
+cd ..
+cd client
+npm install
+```
+
+#Running Back-end:
+```
+cd api
+npm start
+```
+#Running Front-end:
+```
+cd client
+npm start
+```
+Open [http://localhost:8081](http://localhost:8081) to view.
+
+____________________________________________________________________________
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
